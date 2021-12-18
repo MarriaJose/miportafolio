@@ -1,0 +1,117 @@
+#container-fluid {
+    margin: 0;
+    padding: 0;
+    background-color:aqua;
+}
+
+header{
+    background-color: orange;
+    margin: auto;
+    padding: auto;
+}
+
+img {
+    margin-right: center;
+    margin-left: center;
+    
+}
+
+.burbuja {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background: rgb(255, 255, 255);
+    opacity: .3;
+
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+
+    animation: burbujas 5s linear infinite;
+}
+
+.burbuja1 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: rgb(255, 255, 255);
+    opacity: .3;
+
+    position: absolute;
+    bottom: 0;
+    left: 90%;
+
+    animation: burbujas 3s linear infinite;
+}
+
+.burbuja2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: rgb(255, 255, 255);
+    opacity: .3;
+
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+
+    animation: burbujas 4s linear infinite;
+}
+
+.burbuja3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #fff;
+    opacity: .3;
+
+    position: absolute;
+    bottom: 0;
+    left: 80%;
+
+    animation: burbujas 4s linear infinite;
+}
+
+.burbuja4{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #fff;
+    opacity: .3;
+
+    position: absolute;
+    bottom: 0;
+    left: 20%;
+
+    animation: burbujas 2s linear infinite;
+}
+
+.row{
+    background-color: #FFC0CB;
+    color: #FFC0CB;
+}
+
+@keyframes burbujas {
+    0%{
+        bottom: o;
+        opacity: o;
+    }
+    50%{
+        opacity: .4;
+    }
+    100%{
+        bottom: 100vh;
+        opacity: 0;
+    }
+}
+
+.footer{
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+}
+.c{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;
+    color: palevioletred;
+    text-align: center;
+}

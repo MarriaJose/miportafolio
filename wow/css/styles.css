@@ -1,0 +1,80 @@
+*/{
+    box-sizing: border-box;
+ }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.amarillo {
+    display: flex;
+    height: 10em;
+    background-color: beige;
+}
+
+.azul {
+    display: flex;
+    height: 10em;
+    background-color: rgb(124, 124, 6);
+}
+
+.verde {
+    display: flex;
+    height: 10em;
+    background-color: rgb(16, 68, 163);
+}
+
+.naranja {
+    display: flex;
+    height: 10em;
+    background-color: rgb(196, 28, 79);
+}
+
+.violeta {
+    display: flex;
+    height: 10em;
+    background-color: rgb(19, 204, 43);
+}
+
+.rosado {
+    display: flex;
+    height: 10em;
+    background-color: rgb(206, 160, 9);
+}
+
+.rojo {
+    display: flex;
+    height: 10em;
+    background-color: rgb(116, 160, 218);
+}
+
+.morado {
+    display: flex;
+    height: 10em;
+    background-color: rgb(128, 248, 198);
+}
+
+.fucsia {
+    display: flex;
+    height: 10em;
+    background-color: rgb(182, 20, 223);
+}
+
+.gris {
+    display: flex;
+    height: 10em;
+    background-color: rgb(252, 230, 133);
+}
+
+.celeste {
+    display: flex;
+    height: 10em;
+    background-color: rgb(193, 238, 87);
+}
+
+.cafe {
+    display: flex;
+    height: 10em;
+    background-color: rgb(104, 56, 17);
+}

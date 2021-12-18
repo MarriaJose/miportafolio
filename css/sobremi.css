@@ -1,0 +1,171 @@
+*{
+    box-sizing: border-box;
+}
+
+#container{
+    padding: 0;
+    margin: 0%;
+}
+
+.navegacion{
+    background-color: lightpink;
+    height: 150px;
+}
+
+.logo{
+	background-image:url("images/logoweb.png");
+	height: 110px;
+    width: 110px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+} 
+
+.section{
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    height: 800px;
+}
+
+.fondoimg{
+    margin-left: 20px;
+    height: 650px;
+    width: 410px;
+    background-color: rgb(255, 255, 255);
+    float: right;
+}
+
+img {
+    height: 600px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+
+.titulo{
+    font-family: 'Meow Script', cursive;
+    margin-left: 25px;
+    top: 20px;
+    text-align: center;
+    font-size: 80px;
+    color: lightsalmon;
+}
+
+.texto {
+    background-color: rgb(255, 255, 255);
+    width: 750px;
+    float: left;
+}
+
+.slogan {
+    font-family: 'Fuzzy Bubbles', cursive;
+    text-align: center;
+    font-size: 20pt;
+}
+
+.tp{
+    font-family: 'Bitter', serif;
+    text-align: left;
+    font-size: 30px;
+}
+
+.container-principal{
+    height: 70em;
+    width: 100%;
+    background-color: white;
+    float: left;
+    display: block;
+    flex-direction: row;
+    
+}
+
+
+.alma{
+    height: 300px;
+    display: block;
+}
+.w3-tooltip{
+    height: 400px;
+    width: 900px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin:20px;
+}
+
+
+.w3-text{
+    font-family: 'Bitter', serif;
+    font-size: 20px;
+}
+
+.alegria{
+    height: 300px;
+}
+.cor{
+    width: 400px;
+}
+
+.w4-tooltip{
+    height: 400px;
+    width: 900px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin: 20px;
+}
+.calidad{
+    height: 300px;
+    
+}
+.w5-tooltip{
+    height: 400px;
+    width: 900px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.valores{
+    text-align: center;
+}
+.valor{
+    font-family: 'Abril Fatface', cursive;
+    color: lightsalmon;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+
+}
+
+
+.w3-container{
+    background-color: aqua;
+    border: 5px solid lightsalmon;
+    height: 80px;
+    width: 600px;
+    margin: 15px;
+}
+
+.habil{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: palevioletred;
+}
+
+.w4-container{
+    margin: 15px;
+    border: 5px solid lightsalmon;
+    width: 570px;
+    float: left;
+}
+
+.foot{
+    height: 50vh;
+    background-color: lightpink;
+    padding: 40px;
+    text-align: center;
+    vertical-align: center;
+
+}
+.c{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;
+    color: palevioletred;
+    text-align: center;
+}

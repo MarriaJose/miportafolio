@@ -1,0 +1,56 @@
+*{
+	padding: 0px;
+    margin: 0px;
+}
+
+.cajaHeader {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	height: 30vh;
+}
+
+.cajaHeader2 {
+	background-color: pink;
+	color: white;
+	text-align: center;
+	height: 30vh;
+
+}
+
+.cajaNav {
+	background-color: orange;
+	color: white;
+	text-align: center;
+	height: 20vh;
+	
+}
+
+.cajaNav2 {
+	background-color: red;
+	color: white;
+	text-align: center;
+	height: 20vh;
+	
+}
+
+.cajaArticle {
+	background-color: yellow;
+	color: white;
+	text-align: center;
+	height: 10vh;
+}
+
+.cajaFooter {
+	background-color: green;
+	color: white;
+	text-align: center;
+	height: 50vh;
+}
+
+.cajaFooter2 {
+	background-color: grey;
+	color: white;
+	text-align: center;
+	height: 50vh;
+}

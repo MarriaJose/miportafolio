@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#container-fluid{
+    padding: 0;
+    margin: 0%;
+
+}
+
+.navegacion{
+    background-color: lightpink;
+    height: 150px;
+}
+
+.logo{
+	background-image:url("images/logoweb.png");
+	height: 110px;
+    width: 110px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+} 
+
+.section{
+    margin-left: 50px;
+}
+
+.footer{
+    height: 150px;
+    background-color: lightpink;
+}
+.c{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;
+    color: palevioletred;
+    text-align: center;
+}
